@@ -1,0 +1,9 @@
+nextcord
+requests
+pymongo[srv]
+pyshorteners
+pytimeparse
+pubchempy
+pyquery
+python-dotenv
+redis-om
